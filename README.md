@@ -2,7 +2,7 @@
 # Introduction
 
 This is an example of using Flask to create an API for an Python program. 
-
+https://github.com/marioceron/pipeline_flask_category_model
 The service is exposing several endpoints as following:
 
 * GET /status - return the status of the service
