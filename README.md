@@ -18,7 +18,8 @@ The following files are included in the project:
 * app.py - API using Flask; to predict the category, a pretrained model (build in model.py using) is load
 * category.model : Base Model used: Logistic Regression
 * bbc_df.csv - Data extracted from BBC News website http://mlg.ucd.ie/files/datasets/bbc.zip
-
+* pipeline_test_video/Video_pipeline_ds_test_run_marioceron.mp4. - Video demo of the pipeline app
+* pipeline_test_video/Model.postman_collection.json. - Postman collection file with the data for testing (format json)
 # Usage
 
 To start the service, run `python app.py`
