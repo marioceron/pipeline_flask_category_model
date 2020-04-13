@@ -14,6 +14,8 @@ The service is exposing several endpoints as following:
 The following files are included in the project:
 * model/model.py - module containing the CategoryModel class: train the model, predict using the trianing model 
 * app.py - API using Flask; to predict the category, a pretrained model (build in model.py using) is load
+* category.model : Base Model used: Logistic Regression
+* bbc_df.csv - Data extracted from BBC News website http://mlg.ucd.ie/files/datasets/bbc.zip
 
 # Usage
 
