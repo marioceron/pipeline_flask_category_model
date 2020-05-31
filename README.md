@@ -1,4 +1,6 @@
-# Mario Alberto Ceron F.
+# Pipeline Flask Category Model: 
+Mario Alberto Ceron F. - DataScience Training April 2020
+
 # Introduction
 
 This is an example of using Flask to create an API for an Python program. 
