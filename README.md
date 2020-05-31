@@ -22,6 +22,7 @@ The following files are included in the project:
 * bbc_df.csv - Data extracted from BBC News website http://mlg.ucd.ie/files/datasets/bbc.zip
 * pipeline_test_video/Video_pipeline_ds_test_run_marioceron.mp4. - Video demo of the pipeline app
 * pipeline_test_video/Model.postman_collection.json. - Postman collection file with the data for testing (format json)
+* pipeline_test_video/pipeline_running_example_politics_category.jpg - Test running on localhost with politics category.
 # Usage
 
 To start the service, run `python app.py`
