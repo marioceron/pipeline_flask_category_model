@@ -26,6 +26,8 @@ The following files are included in the project:
 
 To start the service, run `python app.py`
 
-#Test Pipeline Running Example Politics Category:
+# Test Pipeline Running Example Politics Category:
+
+Localhost test with Postman:
 
 ![Test Pipeline Running Example Politics Category](pipeline_test_video/pipeline_running_example_politics_category.jpg)
